@@ -11,7 +11,9 @@
           "Pettah Bus Stand (Bastian MW)",
           "Colombo",
           "Town Hall",
-          "Twon Hall"
+          "Twon Hall",
+          "Pettah",
+          "Welampitiya"
         ],
         "sltb_eseat": "Colombo",
         "rathna": [
@@ -148,7 +150,10 @@
       "canonical_name": "Vavuniya",
       "aliases": {
         "bus_lk": "Vavuniya",
-        "magiya": "Vavuniya",
+        "magiya": [
+          "Vavuniya",
+          "Vavuniya bus Stand"
+        ],
         "sltb_eseat": "Vavuniya",
         "rathna": [
           "Vavuniya",
@@ -249,7 +254,10 @@
       "id": "negombo",
       "canonical_name": "Negombo",
       "aliases": {
-        "magiya": "Negombo Koppara Junction",
+        "magiya": [
+          "Negombo Koppara Junction",
+          "Negombo"
+        ],
         "sltb_eseat": "Negombo"
       }
     },
@@ -417,6 +425,27 @@
       "canonical_name": "Ratnapura",
       "aliases": {
         "magiya": "Rathnapura"
+      }
+    },
+    {
+      "id": "kurunegala-gettuwana",
+      "canonical_name": "Kurunegala Gettuwana",
+      "aliases": {
+        "magiya": "Kurunegala(Gettuwana)"
+      }
+    },
+    {
+      "id": "mahagasthota",
+      "canonical_name": "Mahagasthota",
+      "aliases": {
+        "magiya": "Mahagasthota"
+      }
+    },
+    {
+      "id": "rawathawatta",
+      "canonical_name": "Rawathawatta",
+      "aliases": {
+        "magiya": "Rawathawatta"
       }
     }
   ]

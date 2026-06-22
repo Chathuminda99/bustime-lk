@@ -1,0 +1,21 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "🚌 BusTime.lk" [ref=e4] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=e5]:
+        - link "Home" [ref=e6] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e7]: "API Status: v0.1.0"
+  - main [ref=e8]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - link "← New Search" [ref=e11] [cursor=pointer]:
+          - /url: /
+        - heading "Vavuniya → Pettah Bus Stand" [level=1] [ref=e12]
+      - paragraph [ref=e15]: Searching across all platforms...
+  - contentinfo [ref=e16]:
+    - generic [ref=e17]: BusTime.lk — Aggregating bus timetables from BusSeat.lk, Bus.LK, Magiya.lk, SLTB eSeat, and Rathna Travels.
+  - button "Open Next.js Dev Tools" [ref=e23] [cursor=pointer]:
+    - img [ref=e24]
+  - alert [ref=e27]

@@ -57,6 +57,26 @@ KNOWN_ROUTES: list[dict] = [
     {"from": "Colombo", "to": "Makumbura", "pickup_id": "1863", "destination_id": "1733"},
     {"from": "Kandy", "to": "Nuwara Eliya", "pickup_id": "800", "destination_id": "1535"},
     {"from": "Anuradhapura", "to": "Jaffna", "pickup_id": "44", "destination_id": "650"},
+    # Reverse routes (City → Colombo and key cross-country returns)
+    {"from": "Kandy", "to": "Colombo", "pickup_id": "800", "destination_id": "1863"},
+    {"from": "Jaffna", "to": "Colombo", "pickup_id": "650", "destination_id": "1863"},
+    {"from": "Matara", "to": "Colombo", "pickup_id": "1395", "destination_id": "1863"},
+    {"from": "Badulla", "to": "Colombo", "pickup_id": "180", "destination_id": "1863"},
+    {"from": "Anuradhapura", "to": "Colombo", "pickup_id": "44", "destination_id": "1863"},
+    {"from": "Trincomalee", "to": "Colombo", "pickup_id": "1827", "destination_id": "1863"},
+    {"from": "Batticaloa", "to": "Colombo", "pickup_id": "290", "destination_id": "1863"},
+    {"from": "Kurunegala", "to": "Colombo", "pickup_id": "1129", "destination_id": "1863"},
+    {"from": "Nuwara Eliya", "to": "Colombo", "pickup_id": "1535", "destination_id": "1863"},
+    {"from": "Vavuniya", "to": "Colombo", "pickup_id": "1829", "destination_id": "1863"},
+    {"from": "Ratnapura", "to": "Colombo", "pickup_id": "1768", "destination_id": "1863"},
+    {"from": "Ampara", "to": "Colombo", "pickup_id": "3", "destination_id": "1863"},
+    {"from": "Negombo", "to": "Colombo", "pickup_id": "545", "destination_id": "1863"},
+    {"from": "Puttalam", "to": "Colombo", "pickup_id": "1648", "destination_id": "1863"},
+    {"from": "Kegalle", "to": "Colombo", "pickup_id": "960", "destination_id": "1863"},
+    {"from": "Moratuwa", "to": "Colombo", "pickup_id": "355", "destination_id": "1863"},
+    {"from": "Panadura", "to": "Colombo", "pickup_id": "721", "destination_id": "1863"},
+    {"from": "Nuwara Eliya", "to": "Kandy", "pickup_id": "1535", "destination_id": "800"},
+    {"from": "Jaffna", "to": "Anuradhapura", "pickup_id": "650", "destination_id": "44"},
 ]
 
 # ── Helpers ─────────────────────────────────────────────────────────────────

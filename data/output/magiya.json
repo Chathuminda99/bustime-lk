@@ -1,8 +1,8 @@
 {
   "platform_id": "magiya",
-  "scraped_at": "2026-06-22T20:29:15.124899",
+  "scraped_at": "2026-06-22T21:11:56.226257",
   "status": "success",
-  "routes_found": 52,
+  "routes_found": 89,
   "errors": [],
   "entries": [
     {
@@ -13,10 +13,9 @@
       "arrival_time": "07:00",
       "bus_type": "Super Luxury",
       "fare": 1300.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Mawanella",
-      "route_number": "36721"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -26,10 +25,9 @@
       "arrival_time": "08:00",
       "bus_type": "Super Luxury",
       "fare": 1300.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Mawanella",
-      "route_number": "30637"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -39,10 +37,9 @@
       "arrival_time": "04:30",
       "bus_type": "Super Luxury",
       "fare": 3000.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Rasvinthodam Junction",
-      "route_number": "26883"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -52,10 +49,9 @@
       "arrival_time": "04:40",
       "bus_type": "Super Luxury",
       "fare": 3000.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Rasvinthodam Junction",
-      "route_number": "31999"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Colombo",
@@ -65,10 +61,9 @@
       "arrival_time": "07:10",
       "bus_type": "Luxury",
       "fare": 1380.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Colombo",
       "destination_stop": "Matara",
-      "route_number": "46440"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -78,10 +73,9 @@
       "arrival_time": "06:00",
       "bus_type": "Super Luxury",
       "fare": 2480.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Badulla",
-      "route_number": "25388"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -91,10 +85,9 @@
       "arrival_time": "09:10",
       "bus_type": "Intercity",
       "fare": 1750.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Anuradhapura",
-      "route_number": "35434"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -104,10 +97,9 @@
       "arrival_time": "09:30",
       "bus_type": "Luxury",
       "fare": 1750.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Anuradhapura",
-      "route_number": "47621"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -117,10 +109,9 @@
       "arrival_time": "22:30",
       "bus_type": "Luxury",
       "fare": 1700.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Abeyapura Roundabout",
-      "route_number": "33902"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -130,10 +121,9 @@
       "arrival_time": "01:40",
       "bus_type": "Super Luxury",
       "fare": 1700.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Trincomalee",
-      "route_number": "48350"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Twon Hall",
@@ -143,10 +133,9 @@
       "arrival_time": "04:10",
       "bus_type": "Luxury",
       "fare": 3000.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Twon Hall",
       "destination_stop": "Batticaloa",
-      "route_number": "45814"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Town Hall",
@@ -156,10 +145,9 @@
       "arrival_time": "04:30",
       "bus_type": "Luxury",
       "fare": 3000.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Town Hall",
       "destination_stop": "Batticaloa",
-      "route_number": "46852"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -169,10 +157,9 @@
       "arrival_time": "11:25",
       "bus_type": "Luxury",
       "fare": 1460.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Kurunegala",
-      "route_number": "33744"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -182,10 +169,9 @@
       "arrival_time": "18:01",
       "bus_type": "Luxury",
       "fare": 1690.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Kurunegala",
-      "route_number": "35863"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -195,10 +181,9 @@
       "arrival_time": "07:00",
       "bus_type": "Super Luxury",
       "fare": 1300.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Nuwara Eliya",
-      "route_number": "36721"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -208,10 +193,9 @@
       "arrival_time": "08:00",
       "bus_type": "Super Luxury",
       "fare": 1300.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Nuwara Eliya",
-      "route_number": "30637"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -221,10 +205,9 @@
       "arrival_time": "00:20",
       "bus_type": "Super Luxury",
       "fare": 2110.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Hambantota",
-      "route_number": "46029"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -234,10 +217,9 @@
       "arrival_time": "06:00",
       "bus_type": "Super Luxury",
       "fare": 2480.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Rathnapura",
-      "route_number": "25388"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -247,10 +229,9 @@
       "arrival_time": "06:00",
       "bus_type": "Super Luxury",
       "fare": 2300.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Rathnapura",
-      "route_number": "23747"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -260,10 +241,9 @@
       "arrival_time": "09:10",
       "bus_type": "Intercity",
       "fare": 1750.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Vavuniya",
-      "route_number": "35434"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -273,10 +253,9 @@
       "arrival_time": "09:30",
       "bus_type": "Luxury",
       "fare": 1750.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Vavuniya",
-      "route_number": "47621"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -286,10 +265,9 @@
       "arrival_time": "15:00",
       "bus_type": "Luxury",
       "fare": 2025.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Mannar",
-      "route_number": "33500"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -299,10 +277,9 @@
       "arrival_time": "17:20",
       "bus_type": "Luxury",
       "fare": 2315.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Sainthamaruthu",
-      "route_number": "24312"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -312,10 +289,9 @@
       "arrival_time": "01:40",
       "bus_type": "Super Luxury",
       "fare": 2415.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Kalmunai",
-      "route_number": "48334"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Colombo",
@@ -325,10 +301,9 @@
       "arrival_time": "13:30",
       "bus_type": "Super Luxury",
       "fare": 3090.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Colombo",
       "destination_stop": "Ampara",
-      "route_number": "48741"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -338,10 +313,9 @@
       "arrival_time": "17:20",
       "bus_type": "Luxury",
       "fare": 2315.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Ampara",
-      "route_number": "24312"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -351,10 +325,9 @@
       "arrival_time": "07:00",
       "bus_type": "Super Luxury",
       "fare": 1300.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Ambepussa",
-      "route_number": "36721"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -364,10 +337,9 @@
       "arrival_time": "08:00",
       "bus_type": "Super Luxury",
       "fare": 1300.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Ambepussa",
-      "route_number": "30637"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -377,10 +349,9 @@
       "arrival_time": "09:10",
       "bus_type": "Intercity",
       "fare": 1750.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Negombo Koppara Junction ",
-      "route_number": "35434"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -390,10 +361,9 @@
       "arrival_time": "09:30",
       "bus_type": "Luxury",
       "fare": 1750.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Negombo Koppara Junction ",
-      "route_number": "47621"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -403,10 +373,9 @@
       "arrival_time": "06:00",
       "bus_type": "Super Luxury",
       "fare": 2480.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Bandarawela",
-      "route_number": "25388"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -416,10 +385,9 @@
       "arrival_time": "00:20",
       "bus_type": "Super Luxury",
       "fare": 2110.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Kataragama",
-      "route_number": "46029"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Colombo",
@@ -429,10 +397,9 @@
       "arrival_time": "14:30",
       "bus_type": "Super Luxury",
       "fare": 1700.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Colombo",
       "destination_stop": "Moratuwa",
-      "route_number": "48546"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Five Lamp Junction",
@@ -442,10 +409,9 @@
       "arrival_time": "03:30",
       "bus_type": "Super Luxury",
       "fare": 3000.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Five Lamp Junction",
       "destination_stop": "Moratuwa Campus",
-      "route_number": "26990"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Colombo",
@@ -455,10 +421,9 @@
       "arrival_time": "14:30",
       "bus_type": "Super Luxury",
       "fare": 1700.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Colombo",
       "destination_stop": "Katubedda Junction",
-      "route_number": "48546"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Five Lamp Junction",
@@ -468,10 +433,9 @@
       "arrival_time": "03:30",
       "bus_type": "Super Luxury",
       "fare": 3000.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Five Lamp Junction",
       "destination_stop": "Katubedda Junction",
-      "route_number": "26990"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -481,10 +445,9 @@
       "arrival_time": "06:45",
       "bus_type": "Luxury",
       "fare": 2130.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Hasalaka",
-      "route_number": "33168"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Twon Hall",
@@ -494,10 +457,9 @@
       "arrival_time": "04:10",
       "bus_type": "Luxury",
       "fare": 3000.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Twon Hall",
       "destination_stop": "Polonnaruwa",
-      "route_number": "45814"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Town Hall",
@@ -507,10 +469,9 @@
       "arrival_time": "04:30",
       "bus_type": "Luxury",
       "fare": 3000.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Town Hall",
       "destination_stop": "Polonnaruwa",
-      "route_number": "46852"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -520,10 +481,9 @@
       "arrival_time": "09:10",
       "bus_type": "Intercity",
       "fare": 1750.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Puttalam",
-      "route_number": "35434"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -533,10 +493,9 @@
       "arrival_time": "09:30",
       "bus_type": "Luxury",
       "fare": 1750.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Puttalam",
-      "route_number": "47621"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -546,10 +505,9 @@
       "arrival_time": "09:10",
       "bus_type": "Intercity",
       "fare": 1750.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Chilaw",
-      "route_number": "35434"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -559,10 +517,9 @@
       "arrival_time": "09:30",
       "bus_type": "Luxury",
       "fare": 1750.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Chilaw",
-      "route_number": "47621"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Colombo",
@@ -572,10 +529,9 @@
       "arrival_time": "03:00",
       "bus_type": "Super Luxury",
       "fare": 1490.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Colombo",
       "destination_stop": "Welimada",
-      "route_number": "36507"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -585,10 +541,9 @@
       "arrival_time": "06:00",
       "bus_type": "Super Luxury",
       "fare": 2480.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Avissawella",
-      "route_number": "25388"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Gunasinghapura Bus Stand",
@@ -598,10 +553,9 @@
       "arrival_time": "18:30",
       "bus_type": "Luxury",
       "fare": 360.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Gunasinghapura Bus Stand",
       "destination_stop": "Avissawella",
-      "route_number": "42297"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Pettah Bus Stand (Bastian MW)",
@@ -611,10 +565,9 @@
       "arrival_time": "06:00",
       "bus_type": "Super Luxury",
       "fare": 2480.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Pettah Bus Stand (Bastian MW)",
       "destination_stop": "Makumbura",
-      "route_number": "25388"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Colombo",
@@ -624,10 +577,9 @@
       "arrival_time": "13:30",
       "bus_type": "Super Luxury",
       "fare": 3090.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Colombo",
       "destination_stop": "Makumbura",
-      "route_number": "48741"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Mawanella",
@@ -637,10 +589,9 @@
       "arrival_time": "07:00",
       "bus_type": "Super Luxury",
       "fare": 1300.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Mawanella",
       "destination_stop": "Nuwara Eliya",
-      "route_number": "36721"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Mawanella",
@@ -650,10 +601,9 @@
       "arrival_time": "08:00",
       "bus_type": "Super Luxury",
       "fare": 1300.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Mawanella",
       "destination_stop": "Nuwara Eliya",
-      "route_number": "30637"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Anuradhapura",
@@ -663,10 +613,9 @@
       "arrival_time": "04:30",
       "bus_type": "Super Luxury",
       "fare": 3000.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23",
       "origin_stop": "Anuradhapura",
       "destination_stop": "Rasvinthodam Junction",
-      "route_number": "26883"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     },
     {
       "origin": "Anuradhapura",
@@ -676,10 +625,453 @@
       "arrival_time": "04:40",
       "bus_type": "Super Luxury",
       "fare": 3000.0,
-      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-22",
       "origin_stop": "Anuradhapura",
       "destination_stop": "Rasvinthodam Junction",
-      "route_number": "31984"
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-22"
+    },
+    {
+      "origin": "Kandy",
+      "destination": "Colombo",
+      "operator": "Dilanka Express",
+      "departure_time": "01:30",
+      "arrival_time": "09:45",
+      "bus_type": "Super Luxury",
+      "fare": 2415.0,
+      "origin_stop": "Kandy",
+      "destination_stop": "Colombo",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Kandy",
+      "destination": "Colombo",
+      "operator": "Dilanka Express",
+      "departure_time": "05:30",
+      "arrival_time": "16:30",
+      "bus_type": "Luxury",
+      "fare": 2315.0,
+      "origin_stop": "Kandy",
+      "destination_stop": "Colombo",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Rasvinthodam Junction",
+      "destination": "Five Lamp Junction",
+      "operator": "NCG Express",
+      "departure_time": "18:30",
+      "arrival_time": "03:30",
+      "bus_type": "Super Luxury",
+      "fare": 3000.0,
+      "origin_stop": "Rasvinthodam Junction",
+      "destination_stop": "Five Lamp Junction",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Jaffna Hospital",
+      "destination": "Colombo",
+      "operator": "RS Express",
+      "departure_time": "19:00",
+      "arrival_time": "03:30",
+      "bus_type": "Super Luxury",
+      "fare": 3000.0,
+      "origin_stop": "Jaffna Hospital",
+      "destination_stop": "Colombo",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Godagama",
+      "destination": "Colombo",
+      "operator": "Sandasara Expressway Couch",
+      "departure_time": "21:00",
+      "arrival_time": "23:20",
+      "bus_type": "Luxury",
+      "fare": 1380.0,
+      "origin_stop": "Godagama",
+      "destination_stop": "Colombo",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Badulla",
+      "destination": "Colombo",
+      "operator": "NCG Express",
+      "departure_time": "00:20",
+      "arrival_time": "06:00",
+      "bus_type": "Super Luxury",
+      "fare": 2480.0,
+      "origin_stop": "Badulla",
+      "destination_stop": "Colombo",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Badulla Hospital",
+      "destination": "Colombo",
+      "operator": "NCG Express",
+      "departure_time": "17:15",
+      "arrival_time": "22:10",
+      "bus_type": "Super Luxury",
+      "fare": 2440.0,
+      "origin_stop": "Badulla Hospital",
+      "destination_stop": "Colombo",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Anuradhapura",
+      "destination": "Colombo",
+      "operator": "Hiru Express",
+      "departure_time": "00:20",
+      "arrival_time": "07:15",
+      "bus_type": "Luxury",
+      "fare": 2255.0,
+      "origin_stop": "Anuradhapura",
+      "destination_stop": "Colombo",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Anuradhapura",
+      "destination": "Colombo",
+      "operator": "Pubudu Power Line",
+      "departure_time": "03:40",
+      "arrival_time": "10:00",
+      "bus_type": "Luxury",
+      "fare": 2090.0,
+      "origin_stop": "Anuradhapura",
+      "destination_stop": "Colombo",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Abeyapura Roundabout",
+      "destination": "Colombo",
+      "operator": "Auto Sam Airline",
+      "departure_time": "02:20",
+      "arrival_time": "07:40",
+      "bus_type": "Luxury",
+      "fare": 1700.0,
+      "origin_stop": "Abeyapura Roundabout",
+      "destination_stop": "Colombo",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Abeyapura Roundabout",
+      "destination": "Colombo",
+      "operator": "NCG Express",
+      "departure_time": "08:00",
+      "arrival_time": "14:30",
+      "bus_type": "Super Luxury",
+      "fare": 1700.0,
+      "origin_stop": "Abeyapura Roundabout",
+      "destination_stop": "Colombo",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Batticaloa",
+      "destination": "Colombo",
+      "operator": "Myown Express",
+      "departure_time": "20:00",
+      "arrival_time": "04:45",
+      "bus_type": "Luxury",
+      "fare": 3000.0,
+      "origin_stop": "Batticaloa",
+      "destination_stop": "Colombo",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Batticaloa",
+      "destination": "Welampitiya",
+      "operator": "Sakeer Express",
+      "departure_time": "20:40",
+      "arrival_time": "05:00",
+      "bus_type": "Luxury",
+      "fare": 3000.0,
+      "origin_stop": "Batticaloa",
+      "destination_stop": "Welampitiya",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Kurunegala(Gettuwana)",
+      "destination": "Colombo",
+      "operator": "Dilanka Express",
+      "departure_time": "01:30",
+      "arrival_time": "09:45",
+      "bus_type": "Super Luxury",
+      "fare": 2415.0,
+      "origin_stop": "Kurunegala(Gettuwana)",
+      "destination_stop": "Colombo",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Kurunegala",
+      "destination": "Colombo",
+      "operator": "Auto Sam Airline",
+      "departure_time": "02:20",
+      "arrival_time": "07:40",
+      "bus_type": "Luxury",
+      "fare": 1700.0,
+      "origin_stop": "Kurunegala",
+      "destination_stop": "Colombo",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Mahagasthota",
+      "destination": "Colombo",
+      "operator": "RAD Rajagiriya",
+      "departure_time": "08:40",
+      "arrival_time": "14:40",
+      "bus_type": "Super Luxury",
+      "fare": 1490.0,
+      "origin_stop": "Mahagasthota",
+      "destination_stop": "Colombo",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Nuwara Eliya",
+      "destination": "Colombo",
+      "operator": "NCG Express",
+      "departure_time": "11:50",
+      "arrival_time": "17:00",
+      "bus_type": "Super Luxury",
+      "fare": 1300.0,
+      "origin_stop": "Nuwara Eliya",
+      "destination_stop": "Colombo",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Vavuniya",
+      "destination": "Colombo",
+      "operator": "Hiru Express",
+      "departure_time": "00:20",
+      "arrival_time": "07:15",
+      "bus_type": "Luxury",
+      "fare": 2255.0,
+      "origin_stop": "Vavuniya",
+      "destination_stop": "Colombo",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Vavuniya bus Stand",
+      "destination": "Pettah",
+      "operator": "Samindi Express",
+      "departure_time": "02:30",
+      "arrival_time": "07:30",
+      "bus_type": "Luxury",
+      "fare": 1690.0,
+      "origin_stop": "Vavuniya bus Stand",
+      "destination_stop": "Pettah",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Rathnapura",
+      "destination": "Colombo",
+      "operator": "NCG Express",
+      "departure_time": "00:20",
+      "arrival_time": "06:00",
+      "bus_type": "Super Luxury",
+      "fare": 2480.0,
+      "origin_stop": "Rathnapura",
+      "destination_stop": "Colombo",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Rathnapura",
+      "destination": "Colombo",
+      "operator": "NCG Express",
+      "departure_time": "18:45",
+      "arrival_time": "02:40",
+      "bus_type": "Super Luxury",
+      "fare": 2300.0,
+      "origin_stop": "Rathnapura",
+      "destination_stop": "Colombo",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "2 Kanuwa",
+      "destination": "Colombo",
+      "operator": "Dilanka Express",
+      "departure_time": "01:30",
+      "arrival_time": "09:45",
+      "bus_type": "Super Luxury",
+      "fare": 2415.0,
+      "origin_stop": "2 Kanuwa",
+      "destination_stop": "Colombo",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Ampara",
+      "destination": "Colombo",
+      "operator": "Dilanka Express",
+      "departure_time": "05:30",
+      "arrival_time": "16:30",
+      "bus_type": "Luxury",
+      "fare": 2315.0,
+      "origin_stop": "Ampara",
+      "destination_stop": "Colombo",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Negombo",
+      "destination": "Colombo",
+      "operator": "Hiru Express",
+      "departure_time": "00:20",
+      "arrival_time": "07:15",
+      "bus_type": "Luxury",
+      "fare": 2255.0,
+      "origin_stop": "Negombo",
+      "destination_stop": "Colombo",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Negombo",
+      "destination": "Pettah",
+      "operator": "Marina Express",
+      "departure_time": "07:25",
+      "arrival_time": "13:00",
+      "bus_type": "Luxury",
+      "fare": 1750.0,
+      "origin_stop": "Negombo",
+      "destination_stop": "Pettah",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Puttalam",
+      "destination": "Colombo",
+      "operator": "Hiru Express",
+      "departure_time": "00:20",
+      "arrival_time": "07:15",
+      "bus_type": "Luxury",
+      "fare": 2255.0,
+      "origin_stop": "Puttalam",
+      "destination_stop": "Colombo",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Puttalam",
+      "destination": "Pettah",
+      "operator": "Marina Express",
+      "departure_time": "07:25",
+      "arrival_time": "13:00",
+      "bus_type": "Luxury",
+      "fare": 1750.0,
+      "origin_stop": "Puttalam",
+      "destination_stop": "Pettah",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Kegalle",
+      "destination": "Colombo",
+      "operator": "Dilanka Express",
+      "departure_time": "05:30",
+      "arrival_time": "16:30",
+      "bus_type": "Luxury",
+      "fare": 2315.0,
+      "origin_stop": "Kegalle",
+      "destination_stop": "Colombo",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Kegalle",
+      "destination": "Colombo",
+      "operator": "Eshan Express",
+      "departure_time": "07:30",
+      "arrival_time": "13:40",
+      "bus_type": "Luxury",
+      "fare": 1640.0,
+      "origin_stop": "Kegalle",
+      "destination_stop": "Colombo",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Rawathawatta",
+      "destination": "Pettah Bus Stand (Bastian MW)",
+      "operator": "NCG Express",
+      "departure_time": "18:00",
+      "arrival_time": "01:40",
+      "bus_type": "Super Luxury",
+      "fare": 2400.0,
+      "origin_stop": "Rawathawatta",
+      "destination_stop": "Pettah Bus Stand (Bastian MW)",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Katubedda Junction",
+      "destination": "Five Lamp Junction",
+      "operator": "NCG Express",
+      "departure_time": "19:20",
+      "arrival_time": "04:30",
+      "bus_type": "Super Luxury",
+      "fare": 3000.0,
+      "origin_stop": "Katubedda Junction",
+      "destination_stop": "Five Lamp Junction",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Moratuwa",
+      "destination": "Pettah Bus Stand (Bastian MW)",
+      "operator": "NCG Express",
+      "departure_time": "18:00",
+      "arrival_time": "01:40",
+      "bus_type": "Super Luxury",
+      "fare": 2400.0,
+      "origin_stop": "Moratuwa",
+      "destination_stop": "Pettah Bus Stand (Bastian MW)",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Moratuwa",
+      "destination": "Pettah Bus Stand (Bastian MW)",
+      "operator": "NCG Express",
+      "departure_time": "20:30",
+      "arrival_time": "04:55",
+      "bus_type": "Super Luxury",
+      "fare": 3000.0,
+      "origin_stop": "Moratuwa",
+      "destination_stop": "Pettah Bus Stand (Bastian MW)",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Mahagasthota",
+      "destination": "Peradeniya",
+      "operator": "RAD Rajagiriya",
+      "departure_time": "08:40",
+      "arrival_time": "14:40",
+      "bus_type": "Super Luxury",
+      "fare": 1490.0,
+      "origin_stop": "Mahagasthota",
+      "destination_stop": "Peradeniya",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Nuwara Eliya",
+      "destination": "Mawanella",
+      "operator": "NCG Express",
+      "departure_time": "11:50",
+      "arrival_time": "17:00",
+      "bus_type": "Super Luxury",
+      "fare": 1300.0,
+      "origin_stop": "Nuwara Eliya",
+      "destination_stop": "Mawanella",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Rasvinthodam Junction",
+      "destination": "Anuradhapura Bus Stand",
+      "operator": "NCG Express",
+      "departure_time": "18:30",
+      "arrival_time": "03:30",
+      "bus_type": "Super Luxury",
+      "fare": 3000.0,
+      "origin_stop": "Rasvinthodam Junction",
+      "destination_stop": "Anuradhapura Bus Stand",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
+    },
+    {
+      "origin": "Jaffna Hospital",
+      "destination": "Anuradhapura",
+      "operator": "RS Express",
+      "departure_time": "19:00",
+      "arrival_time": "03:30",
+      "bus_type": "Super Luxury",
+      "fare": 3000.0,
+      "origin_stop": "Jaffna Hospital",
+      "destination_stop": "Anuradhapura",
+      "booking_url": "https://magiya.lk/journeys/search?pickup_id=&destination_id=&date_of_journey=2026-06-23"
     }
   ]
 }
