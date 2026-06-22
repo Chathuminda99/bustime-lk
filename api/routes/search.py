@@ -25,18 +25,28 @@ async def search(
     """
     db = await get_async_db()
 
-    # Resolve station IDs — try exact ID first, then name match
+    # Resolve station IDs — try exact ID, canonical name, or alias match
     origin_rows = await db.execute_fetchall(
-        """SELECT id, canonical_name FROM stations
-           WHERE id = ? OR canonical_name LIKE ?
+        """SELECT s.id, s.canonical_name FROM stations s
+           WHERE s.id = ? OR s.canonical_name LIKE ?
+           UNION
+           SELECT sa.station_id, st.canonical_name
+           FROM station_aliases sa
+           JOIN stations st ON sa.station_id = st.id
+           WHERE sa.alias_name LIKE ?
            LIMIT 1""",
-        (from_station, f"%{from_station}%"),
+        (from_station, f"%{from_station}%", f"%{from_station}%"),
     )
     dest_rows = await db.execute_fetchall(
-        """SELECT id, canonical_name FROM stations
-           WHERE id = ? OR canonical_name LIKE ?
+        """SELECT s.id, s.canonical_name FROM stations s
+           WHERE s.id = ? OR s.canonical_name LIKE ?
+           UNION
+           SELECT sa.station_id, st.canonical_name
+           FROM station_aliases sa
+           JOIN stations st ON sa.station_id = st.id
+           WHERE sa.alias_name LIKE ?
            LIMIT 1""",
-        (to_station, f"%{to_station}%"),
+        (to_station, f"%{to_station}%", f"%{to_station}%"),
     )
 
     if not origin_rows:
