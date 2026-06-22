@@ -1,0 +1,423 @@
+{
+  "description": "Maps platform-specific station names to canonical station names for BusTime.lk",
+  "stations": [
+    {
+      "id": "colombo-fort",
+      "canonical_name": "Colombo Fort",
+      "aliases": {
+        "busseat": "Colombo",
+        "bus_lk": "Colombo",
+        "magiya": [
+          "Pettah Bus Stand (Bastian MW)",
+          "Colombo",
+          "Town Hall",
+          "Twon Hall"
+        ],
+        "sltb_eseat": "Colombo",
+        "rathna": [
+          "Colombo",
+          "colombo"
+        ]
+      }
+    },
+    {
+      "id": "colombo-bastian",
+      "canonical_name": "Colombo Bastian Mawatha",
+      "aliases": {
+        "sltb_eseat": "Colombo (Bastian Mawatha)"
+      }
+    },
+    {
+      "id": "colombo-five-lamp",
+      "canonical_name": "Colombo Five Lamp Junction",
+      "aliases": {
+        "magiya": "Five Lamp Junction"
+      }
+    },
+    {
+      "id": "colombo-gunasinghapura",
+      "canonical_name": "Colombo Gunasinghapura",
+      "aliases": {
+        "magiya": "Gunasinghapura Bus Stand"
+      }
+    },
+    {
+      "id": "kandy",
+      "canonical_name": "Kandy",
+      "aliases": {
+        "busseat": "Kandy",
+        "bus_lk": "Kandy",
+        "magiya": "Kandy",
+        "sltb_eseat": "Kandy",
+        "rathna": "Kandy"
+      }
+    },
+    {
+      "id": "jaffna",
+      "canonical_name": "Jaffna",
+      "aliases": {
+        "busseat": "Jaffna",
+        "bus_lk": "Jaffna",
+        "magiya": "Jaffna",
+        "sltb_eseat": "Jaffna",
+        "rathna": [
+          "Jaffna",
+          "jaffna"
+        ]
+      }
+    },
+    {
+      "id": "point-pedro",
+      "canonical_name": "Point Pedro",
+      "aliases": {
+        "busseat": "Point Pedro"
+      }
+    },
+    {
+      "id": "kankesanthurai",
+      "canonical_name": "Kankesanthurai",
+      "aliases": {
+        "busseat": "Kankesanthurai",
+        "rathna": [
+          "kankesanthurai"
+        ]
+      }
+    },
+    {
+      "id": "karainagar",
+      "canonical_name": "Karainagar",
+      "aliases": {
+        "busseat": "Karainagar"
+      }
+    },
+    {
+      "id": "galle",
+      "canonical_name": "Galle",
+      "aliases": {
+        "bus_lk": "Galle",
+        "sltb_eseat": "Galle"
+      }
+    },
+    {
+      "id": "matara",
+      "canonical_name": "Matara",
+      "aliases": {
+        "bus_lk": "Matara",
+        "magiya": "Matara",
+        "sltb_eseat": "Matara"
+      }
+    },
+    {
+      "id": "badulla",
+      "canonical_name": "Badulla",
+      "aliases": {
+        "bus_lk": "Badulla",
+        "magiya": "Badulla",
+        "sltb_eseat": "Badulla"
+      }
+    },
+    {
+      "id": "anuradhapura",
+      "canonical_name": "Anuradhapura",
+      "aliases": {
+        "bus_lk": "Anuradhapura",
+        "magiya": "Anuradhapura",
+        "sltb_eseat": "Anuradhapura"
+      }
+    },
+    {
+      "id": "trincomalee",
+      "canonical_name": "Trincomalee",
+      "aliases": {
+        "bus_lk": "Trincomalee",
+        "magiya": "Trincomalee",
+        "sltb_eseat": "Trincomalee"
+      }
+    },
+    {
+      "id": "batticaloa",
+      "canonical_name": "Batticaloa",
+      "aliases": {
+        "bus_lk": "Batticaloa",
+        "magiya": "Batticaloa",
+        "sltb_eseat": "Batticaloa"
+      }
+    },
+    {
+      "id": "vavuniya",
+      "canonical_name": "Vavuniya",
+      "aliases": {
+        "bus_lk": "Vavuniya",
+        "magiya": "Vavuniya",
+        "sltb_eseat": "Vavuniya",
+        "rathna": [
+          "Vavuniya",
+          "vavuniya"
+        ]
+      }
+    },
+    {
+      "id": "mannar",
+      "canonical_name": "Mannar",
+      "aliases": {
+        "bus_lk": "Mannar",
+        "magiya": "Mannar",
+        "sltb_eseat": "Mannar",
+        "rathna": [
+          "Mannar",
+          "mannar"
+        ],
+        "busseat": "Mannar"
+      }
+    },
+    {
+      "id": "kalmunai",
+      "canonical_name": "Kalmunai",
+      "aliases": {
+        "bus_lk": "Kalmunai",
+        "magiya": "Kalmunai",
+        "sltb_eseat": "Kalmunai"
+      }
+    },
+    {
+      "id": "ampara",
+      "canonical_name": "Ampara",
+      "aliases": {
+        "bus_lk": "Ampara",
+        "magiya": "Ampara",
+        "sltb_eseat": "Ampara"
+      }
+    },
+    {
+      "id": "kurunegala",
+      "canonical_name": "Kurunegala",
+      "aliases": {
+        "bus_lk": "Kurunegala",
+        "magiya": "Kurunegala",
+        "sltb_eseat": "Kurunegala"
+      }
+    },
+    {
+      "id": "nuwara-eliya",
+      "canonical_name": "Nuwara Eliya",
+      "aliases": {
+        "magiya": "Nuwara Eliya",
+        "sltb_eseat": "Nuwara Eliya"
+      }
+    },
+    {
+      "id": "hambantota",
+      "canonical_name": "Hambantota",
+      "aliases": {
+        "magiya": "Hambantota"
+      }
+    },
+    {
+      "id": "ratnapura",
+      "canonical_name": "Ratnapura",
+      "aliases": {
+        "magiya": "Ratnapura",
+        "sltb_eseat": "Ratnapura"
+      }
+    },
+    {
+      "id": "polonnaruwa",
+      "canonical_name": "Polonnaruwa",
+      "aliases": {
+        "bus_lk": "Polonnaruwa",
+        "magiya": "Polonnaruwa",
+        "sltb_eseat": "Polonnaruwa"
+      }
+    },
+    {
+      "id": "matale",
+      "canonical_name": "Matale",
+      "aliases": {
+        "magiya": "Matale",
+        "sltb_eseat": "Matale"
+      }
+    },
+    {
+      "id": "kegalle",
+      "canonical_name": "Kegalle",
+      "aliases": {
+        "magiya": "Kegalle",
+        "sltb_eseat": "Kegalle"
+      }
+    },
+    {
+      "id": "negombo",
+      "canonical_name": "Negombo",
+      "aliases": {
+        "magiya": "Negombo Koppara Junction",
+        "sltb_eseat": "Negombo"
+      }
+    },
+    {
+      "id": "puttalam",
+      "canonical_name": "Puttalam",
+      "aliases": {
+        "magiya": "Puttalam",
+        "sltb_eseat": "Puttalam"
+      }
+    },
+    {
+      "id": "chilaw",
+      "canonical_name": "Chilaw",
+      "aliases": {
+        "magiya": "Chilaw"
+      }
+    },
+    {
+      "id": "bandarawela",
+      "canonical_name": "Bandarawela",
+      "aliases": {
+        "magiya": "Bandarawela",
+        "sltb_eseat": "Bandarawela"
+      }
+    },
+    {
+      "id": "makumbura",
+      "canonical_name": "Makumbura",
+      "aliases": {
+        "magiya": "Makumbura"
+      }
+    },
+    {
+      "id": "moratuwa",
+      "canonical_name": "Moratuwa",
+      "aliases": {
+        "magiya": "Moratuwa"
+      }
+    },
+    {
+      "id": "panadura",
+      "canonical_name": "Panadura",
+      "aliases": {
+        "magiya": "Panadura"
+      }
+    },
+    {
+      "id": "avissawella",
+      "canonical_name": "Avissawella",
+      "aliases": {
+        "magiya": "Avissawella"
+      }
+    },
+    {
+      "id": "welimada",
+      "canonical_name": "Welimada",
+      "aliases": {
+        "magiya": "Welimada"
+      }
+    },
+    {
+      "id": "kataragama",
+      "canonical_name": "Kataragama",
+      "aliases": {
+        "magiya": "Kataragama"
+      }
+    },
+    {
+      "id": "akkaraipattu",
+      "canonical_name": "Akkaraipattu",
+      "aliases": {
+        "bus_lk": "Akkaraipattu"
+      }
+    },
+    {
+      "id": "passara",
+      "canonical_name": "Passara",
+      "aliases": {
+        "bus_lk": "Passara"
+      }
+    },
+    {
+      "id": "mawanella",
+      "canonical_name": "Mawanella",
+      "aliases": {
+        "magiya": "Mawanella"
+      }
+    },
+    {
+      "id": "peradeniya",
+      "canonical_name": "Peradeniya",
+      "aliases": {
+        "magiya": "Peradeniya"
+      }
+    },
+    {
+      "id": "mullaitivu",
+      "canonical_name": "Mullaitivu",
+      "aliases": {
+        "rathna": [
+          "Mullaitivu",
+          "mullaitivu"
+        ]
+      }
+    },
+    {
+      "id": "kilinochchi",
+      "canonical_name": "Kilinochchi",
+      "aliases": {
+        "rathna": [
+          "Kilinochchi",
+          "kilinochchi"
+        ]
+      }
+    },
+    {
+      "id": "moratuwa",
+      "canonical_name": "Moratuwa",
+      "aliases": {
+        "magiya": [
+          "Moratuwa",
+          "Katubedda Junction",
+          "Moratuwa Campus"
+        ]
+      }
+    },
+    {
+      "id": "jaffna-rasvinthodam",
+      "canonical_name": "Rasvinthodam Junction",
+      "aliases": {
+        "magiya": "Rasvinthodam Junction"
+      }
+    },
+    {
+      "id": "ambepussa",
+      "canonical_name": "Ambepussa",
+      "aliases": {
+        "magiya": "Ambepussa"
+      }
+    },
+    {
+      "id": "hasalaka",
+      "canonical_name": "Hasalaka",
+      "aliases": {
+        "magiya": "Hasalaka"
+      }
+    },
+    {
+      "id": "abeyapura",
+      "canonical_name": "Abeyapura Roundabout",
+      "aliases": {
+        "magiya": "Abeyapura Roundabout"
+      }
+    },
+    {
+      "id": "sainthamaruthu",
+      "canonical_name": "Sainthamaruthu",
+      "aliases": {
+        "magiya": "Sainthamaruthu"
+      }
+    },
+    {
+      "id": "rathnapura-typo",
+      "canonical_name": "Ratnapura",
+      "aliases": {
+        "magiya": "Rathnapura"
+      }
+    }
+  ]
+}

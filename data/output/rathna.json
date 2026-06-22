@@ -1,0 +1,185 @@
+{
+  "platform_id": "rathna",
+  "scraped_at": "2026-06-22T15:14:49.359977+00:00",
+  "status": "success",
+  "routes_found": 16,
+  "errors": [],
+  "entries": [
+    {
+      "origin": "jaffna",
+      "destination": "colombo",
+      "operator": "Rathna Travels",
+      "departure_time": "09:00",
+      "arrival_time": "16:31",
+      "bus_type": "Luxury",
+      "fare": 3100.0,
+      "origin_stop": "jaffna",
+      "destination_stop": "colombo"
+    },
+    {
+      "origin": "jaffna",
+      "destination": "colombo",
+      "operator": "Rathna Travels",
+      "departure_time": "21:00",
+      "arrival_time": "04:16",
+      "bus_type": "Luxury",
+      "fare": 2800.0,
+      "origin_stop": "jaffna",
+      "destination_stop": "colombo"
+    },
+    {
+      "origin": "jaffna",
+      "destination": "colombo",
+      "operator": "Rathna Travels",
+      "departure_time": "22:00",
+      "arrival_time": "21:45",
+      "bus_type": "Luxury",
+      "fare": 2800.0,
+      "origin_stop": "jaffna",
+      "destination_stop": "colombo"
+    },
+    {
+      "origin": "jaffna",
+      "destination": "colombo",
+      "operator": "Rathna Travels",
+      "departure_time": "22:30",
+      "arrival_time": "05:42",
+      "bus_type": "Luxury",
+      "fare": 2800.0,
+      "origin_stop": "jaffna",
+      "destination_stop": "colombo"
+    },
+    {
+      "origin": "vavuniya",
+      "destination": "colombo",
+      "operator": "Rathna Travels",
+      "departure_time": "09:00",
+      "arrival_time": "16:31",
+      "bus_type": "Luxury",
+      "fare": 1655.0,
+      "origin_stop": "vavuniya",
+      "destination_stop": "colombo"
+    },
+    {
+      "origin": "vavuniya",
+      "destination": "colombo",
+      "operator": "Rathna Travels",
+      "departure_time": "21:00",
+      "arrival_time": "04:16",
+      "bus_type": "Luxury",
+      "fare": 1690.0,
+      "origin_stop": "vavuniya",
+      "destination_stop": "colombo"
+    },
+    {
+      "origin": "vavuniya",
+      "destination": "colombo",
+      "operator": "Rathna Travels",
+      "departure_time": "22:00",
+      "arrival_time": "00:02",
+      "bus_type": "Luxury",
+      "fare": 1655.0,
+      "origin_stop": "vavuniya",
+      "destination_stop": "colombo"
+    },
+    {
+      "origin": "vavuniya",
+      "destination": "colombo",
+      "operator": "Rathna Travels",
+      "departure_time": "22:30",
+      "arrival_time": "05:42",
+      "bus_type": "Luxury",
+      "fare": 1655.0,
+      "origin_stop": "vavuniya",
+      "destination_stop": "colombo"
+    },
+    {
+      "origin": "vavuniya",
+      "destination": "jaffna",
+      "operator": "Rathna Travels",
+      "departure_time": "08:00",
+      "arrival_time": "14:40",
+      "bus_type": "Luxury",
+      "fare": 3100.0,
+      "origin_stop": "vavuniya",
+      "destination_stop": "jaffna"
+    },
+    {
+      "origin": "vavuniya",
+      "destination": "jaffna",
+      "operator": "Rathna Travels",
+      "departure_time": "21:00",
+      "arrival_time": "22:25",
+      "bus_type": "Luxury",
+      "fare": 2800.0,
+      "origin_stop": "vavuniya",
+      "destination_stop": "jaffna"
+    },
+    {
+      "origin": "vavuniya",
+      "destination": "jaffna",
+      "operator": "Rathna Travels",
+      "departure_time": "22:00",
+      "arrival_time": "05:05",
+      "bus_type": "Luxury",
+      "fare": 2800.0,
+      "origin_stop": "vavuniya",
+      "destination_stop": "jaffna"
+    },
+    {
+      "origin": "vavuniya",
+      "destination": "jaffna",
+      "operator": "Rathna Travels",
+      "departure_time": "22:30",
+      "arrival_time": "06:15",
+      "bus_type": "Luxury",
+      "fare": 2800.0,
+      "origin_stop": "vavuniya",
+      "destination_stop": "jaffna"
+    },
+    {
+      "origin": "kilinochchi",
+      "destination": "colombo",
+      "operator": "Rathna Travels",
+      "departure_time": "09:00",
+      "arrival_time": "16:31",
+      "bus_type": "Luxury",
+      "fare": 3100.0,
+      "origin_stop": "kilinochchi",
+      "destination_stop": "colombo"
+    },
+    {
+      "origin": "kilinochchi",
+      "destination": "colombo",
+      "operator": "Rathna Travels",
+      "departure_time": "21:00",
+      "arrival_time": "04:16",
+      "bus_type": "Luxury",
+      "fare": 2800.0,
+      "origin_stop": "kilinochchi",
+      "destination_stop": "colombo"
+    },
+    {
+      "origin": "kilinochchi",
+      "destination": "colombo",
+      "operator": "Rathna Travels",
+      "departure_time": "22:00",
+      "arrival_time": "22:57",
+      "bus_type": "Luxury",
+      "fare": 2800.0,
+      "origin_stop": "kilinochchi",
+      "destination_stop": "colombo"
+    },
+    {
+      "origin": "kilinochchi",
+      "destination": "colombo",
+      "operator": "Rathna Travels",
+      "departure_time": "22:30",
+      "arrival_time": "05:42",
+      "bus_type": "Luxury",
+      "fare": 2800.0,
+      "origin_stop": "kilinochchi",
+      "destination_stop": "colombo"
+    }
+  ]
+}

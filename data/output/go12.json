@@ -1,0 +1,10 @@
+{
+  "platform_id": "go12",
+  "scraped_at": "2026-06-22T15:00:43.578633+00:00",
+  "status": "failed",
+  "routes_found": 0,
+  "errors": [
+    "Blocked by Cloudflare anti-bot protection"
+  ],
+  "entries": []
+}

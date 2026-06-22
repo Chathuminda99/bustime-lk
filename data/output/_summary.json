@@ -1,0 +1,36 @@
+{
+  "run_at": "2026-06-22T15:00:43.579134+00:00",
+  "scrapers": {
+    "busseat": {
+      "status": "success",
+      "routes_found": 22,
+      "errors": 0
+    },
+    "magiya": {
+      "status": "success",
+      "routes_found": 52,
+      "errors": 0
+    },
+    "bus_lk": {
+      "status": "success",
+      "routes_found": 98,
+      "errors": 0
+    },
+    "sltb_eseat": {
+      "status": "success",
+      "routes_found": 197,
+      "errors": 0
+    },
+    "rathna": {
+      "status": "success",
+      "routes_found": 67,
+      "errors": 0
+    },
+    "go12": {
+      "status": "failed",
+      "routes_found": 0,
+      "errors": 1
+    }
+  },
+  "total_routes": 436
+}

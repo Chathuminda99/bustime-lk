@@ -53,10 +53,10 @@ Thumbs.db
 *.tmp
 
 # ── Database (generated, not source) ──
-data/buses.db
-data/buses.db-journal
-data/buses.db-wal
-data/buses.db-shm
+data/bustime.db
+data/bustime.db-journal
+data/bustime.db-wal
+data/bustime.db-shm
 
 # ── Scraped output (keep JSON in repo for history) ──
 # data/output/ is tracked — comment out below if you want to ignore it
