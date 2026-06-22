@@ -1,0 +1,85 @@
+# ── Python ──
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+env/
+*.so
+
+# ── Python virtual environments ──
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ── Node / Next.js ──
+node_modules/
+.next/
+out/
+.nuxt/
+
+# ── Build outputs ──
+web/.next/
+web/out/
+
+# ── Environment & secrets ──
+.env
+.env.local
+.env.production
+.env.development
+.env*.local
+!.env.example
+
+# ── IDE ──
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ── OS ──
+.DS_Store
+Thumbs.db
+*.tmp
+
+# ── Database (generated, not source) ──
+data/buses.db
+data/buses.db-journal
+data/buses.db-wal
+data/buses.db-shm
+
+# ── Scraped output (keep JSON in repo for history) ──
+# data/output/ is tracked — comment out below if you want to ignore it
+# data/output/*.json
+
+# ── Logs ──
+*.log
+logs/
+scraper_debug.log
+
+# ── Testing ──
+.pytest_cache/
+coverage/
+htmlcov/
+.tox/
+.nox/
+
+# ── Python type checking ──
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# ── Misc ──
+*.bak
+*.orig
+.cache/

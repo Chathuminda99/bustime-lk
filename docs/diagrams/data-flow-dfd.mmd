@@ -1,0 +1,111 @@
+graph LR
+    %% ── Level 0: Context Diagram ──
+    subgraph External["External Entities"]
+        P1["BusSeat.lk"]
+        P2["Bus.LK"]
+        P3["Magiya.lk"]
+        P4["SLTB eSeat"]
+        P5["BusTicket.gov.lk"]
+        P6["Rathna Travels"]
+        P7["12Go Asia"]
+        PASSENGER["👤 Passenger"]
+    end
+
+    subgraph System["🔄 BusBooking Aggregator System"]
+        %% Level 1: Sub-processes
+        subgraph P1_SCRAPE["1.0 Scrape"]
+            S_RUN["1.1 Run All<br/>Scrapers"]
+            S_PARSE["1.2 Parse HTML<br/>Extract Routes"]
+            S_WRITE["1.3 Write JSON<br/>to data/output/"]
+        end
+
+        subgraph P2_IMPORT["2.0 Import"]
+            I_READ["2.1 Read JSON<br/>Files"]
+            I_NORM["2.2 Normalize<br/>Stations & Operators<br/>(config/mappings)"]
+            I_UPSERT["2.3 Upsert into<br/>SQLite Database"]
+        end
+
+        subgraph P3_SERVE["3.0 Serve API"]
+            A_SEARCH["3.1 Search<br/>Routes"]
+            A_ROUTES["3.2 List Routes"]
+            A_STATIONS["3.3 Station<br/>Autocomplete"]
+            A_HEALTH["3.4 Health<br/>Check"]
+        end
+
+        subgraph P4_PRESENT["4.0 Present UI"]
+            U_SEARCH["4.1 Search Form<br/>(Home Page)"]
+            U_RESULTS["4.2 Compare Results<br/>(/search)"]
+            U_DETAIL["4.3 Route Timetable<br/>(/route/[id])"]
+            U_BOOK["4.4 Deep-link to<br/>Source Platform"]
+        end
+
+        %% Data Stores
+        DB_JSON[("D1: JSON Files<br/>data/output/*.json")]
+        DB_SQLITE[("D2: SQLite DB<br/>data/buses.db")]
+        DB_CFG[("D3: Config<br/>station/operator<br/>mappings")]
+        DB_LOGS[("D4: Scrape Logs<br/>scrape_logs table")]
+    end
+
+    %% ── External → System Flows ──
+    P1 -->|"Raw HTML"| S_RUN
+    P2 -->|"Raw HTML"| S_RUN
+    P3 -->|"Raw HTML"| S_RUN
+    P4 -->|"Raw HTML"| S_RUN
+    P5 -->|"Raw HTML"| S_RUN
+    P6 -->|"Raw HTML"| S_RUN
+    P7 -->|"Raw HTML"| S_RUN
+
+    %% ── Internal Flows: Scrape ──
+    S_RUN -->|"Triggers per platform"| S_PARSE
+    S_PARSE -->|"ScrapeResult objects"| S_WRITE
+    S_WRITE -->|"Writes"| DB_JSON
+    S_WRITE -->|"Logs status"| DB_LOGS
+
+    %% ── Internal Flows: Import ──
+    I_READ -->|"Reads from"| DB_JSON
+    I_READ -->|"Route entries"| I_NORM
+    I_NORM -->|"Reads aliases"| DB_CFG
+    I_NORM -->|"Canonical IDs"| I_UPSERT
+    I_UPSERT -->|"INSERT/UPDATE"| DB_SQLITE
+
+    %% ── Internal Flows: Serve ──
+    A_SEARCH -->|"Queries"| DB_SQLITE
+    A_ROUTES -->|"Queries"| DB_SQLITE
+    A_STATIONS -->|"Queries"| DB_SQLITE
+    A_STATIONS -->|"Reads"| DB_CFG
+    A_HEALTH -->|"Queries"| DB_LOGS
+
+    %% ── Internal Flows: Present ──
+    U_SEARCH -->|"GET /api/search"| A_SEARCH
+    U_SEARCH -->|"GET /api/stations?q="| A_STATIONS
+    U_RESULTS -->|"GET /api/search"| A_SEARCH
+    U_DETAIL -->|"GET /api/routes/:id"| A_ROUTES
+    U_RESULTS -->|"User clicks"| U_BOOK
+    U_DETAIL -->|"User clicks"| U_BOOK
+
+    %% ── System → External Flows ──
+    PASSENGER -->|"Enters search query"| U_SEARCH
+    U_RESULTS -->|"Displays comparison"| PASSENGER
+    U_BOOK -->|"Redirects to"| P1
+    U_BOOK -->|"Redirects to"| P2
+    U_BOOK -->|"Redirects to"| P3
+    U_BOOK -->|"Redirects to"| P4
+
+    %% ── Legend ──
+    subgraph Legend["📋 Legend"]
+        L_PROC["Process"]
+        L_STORE[("Data Store")]
+        L_EXT["External Entity"]
+        L_FLOW["Data Flow →"]
+    end
+
+    %% ── Styling ──
+    classDef process fill:#93c5fd,stroke:#2563eb,color:#000
+    classDef store fill:#a7f3d0,stroke:#059669,color:#000
+    classDef external fill:#fca5a5,stroke:#dc2626,color:#000
+    classDef legend fill:#f3f4f6,stroke:#9ca3af,color:#000
+
+    class S_RUN,S_PARSE,S_WRITE,I_READ,I_NORM,I_UPSERT,A_SEARCH,A_ROUTES,A_STATIONS,A_HEALTH,U_SEARCH,U_RESULTS,U_DETAIL,U_BOOK process
+    class DB_JSON,DB_SQLITE,DB_CFG,DB_LOGS store
+    class P1,P2,P3,P4,P5,P6,P7,PASSENGER external
+    class L_PROC,L_STORE,L_EXT,L_FLOW legend
